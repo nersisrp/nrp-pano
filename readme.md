@@ -1,5 +1,6 @@
 # 📥 Nersis Roleplay Reklam Panoları Reposunu Kurulum Rehberi
 
+
 Bu rehber, GitHub hesabınız üzerinden **özel** olan bu repoyu nasıl kullanacağınızı adım adım anlatır.
 ---
 1, 2, 3, 4. adımlar ilk seferde kurulum için yapılacak olup, kurulum sonrası yaptığınız değişiklikler sırasında sadece 5. adımı uygulamak yeterlidir..
